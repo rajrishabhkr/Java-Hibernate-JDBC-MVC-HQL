@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<web-app>
+    <servlet>
+        <servlet-name>gg</servlet-name>
+        <servlet-class>NewClass</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>gg</servlet-name>
+        <url-pattern>/abc</url-pattern>
+    </servlet-mapping>
+</web-app>
